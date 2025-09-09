@@ -1,3 +1,4 @@
 # linux_fromzero
 
-- name : jong hyun park
+- name : hihelloo
+- date : 2025/09/09
